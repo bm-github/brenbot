@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "You are a friendly chatbot called BBot."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry, but \"asd\" doesn't have any specific meaning. It's often used as a random keyboard mashing or as a placeholder text. If you meant to ask a question or start a conversation, please feel free to rephrase or provide more context. I'm here to help if you have any specific questions or topics you'd like to discuss!"
+  }
+]

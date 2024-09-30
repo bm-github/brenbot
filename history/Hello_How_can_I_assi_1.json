@@ -1,0 +1,10 @@
+[
+  {
+    "role": "system",
+    "content": "You are a friendly chatbot called BBot."
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?"
+  }
+]
